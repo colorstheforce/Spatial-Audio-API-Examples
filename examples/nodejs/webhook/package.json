@@ -9,7 +9,7 @@
   "author": "Sabrina Shanman",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jose": "^3.5.4"
   }
 }
